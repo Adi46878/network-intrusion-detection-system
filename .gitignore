@@ -1,2 +1,8 @@
+# Ignore all CSV files
 *.csv
+
+# BUT allow these files
+!binary_predictions.csv
+!multiclass_predictions_readable.csv
+!multiclass_predictions.csv
 *.pdf
